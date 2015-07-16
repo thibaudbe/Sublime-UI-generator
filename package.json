@@ -1,0 +1,18 @@
+{
+  "name": "sublime-ui-generator",
+  "version": "1.0.0",
+  "description": "Experimental Sublime Text UI generator in ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ReactJS",
+    "CSS3",
+    "UI",
+    "Sublime",
+    "Text"
+  ],
+  "author": "Thibaud B. <thibaudb.com>",
+  "license": "ISC"
+}
